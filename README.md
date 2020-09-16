@@ -1,4 +1,3 @@
-Online Camera Store
 E-commerce is an emerging and fast-growing technique which is used to buy and sell categorized
 product or services, chat, transact, generate report and track history of every customer.
 E-commerce is an interface between customer and marketer, which can be used for any kind of business
